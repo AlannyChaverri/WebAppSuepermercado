@@ -1,0 +1,150 @@
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.dll.config
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.pdb
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csc.exe
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csc.exe.config
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csc.rsp
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csi.exe
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csi.exe.config
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\csi.rsp
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.AppContext.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Console.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.Compression.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Net.Http.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.ValueTuple.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.exe
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.exe.config
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.rsp
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\VBCSCompiler.exe
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Antlr3.Runtime.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Newtonsoft.Json.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\System.Web.Optimization.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\WebGrease.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\System.Web.Optimization.xml
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Newtonsoft.Json.xml
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Antlr3.Runtime.pdb
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.csproj.AssemblyReference.cache
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.csproj.CoreCompileInputs.cache
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.dll
+C:\Users\alann\source\repos\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.pdb
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.dll.config
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\WebAppSupermercadoPatitosSA.pdb
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csc.exe
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csc.exe.config
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csc.rsp
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csi.exe
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csi.exe.config
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\csi.rsp
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Managed.Core.targets
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.AppContext.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Collections.Immutable.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Console.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Globalization.Calendars.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.Compression.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.FileSystem.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Net.Http.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Net.Sockets.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Reflection.Metadata.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.ValueTuple.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XmlDocument.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XPath.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.exe
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.exe.config
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\vbc.rsp
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\VBCSCompiler.exe
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\roslyn\VBCSCompiler.exe.config
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Antlr3.Runtime.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\AspNet.ScriptManager.bootstrap.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\AspNet.ScriptManager.jQuery.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.ScriptManager.WebForms.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.Web.Infrastructure.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Newtonsoft.Json.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\System.Web.Optimization.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\WebGrease.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\System.Web.Optimization.xml
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Newtonsoft.Json.xml
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Antlr3.Runtime.pdb
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\es\System.Web.Optimization.resources.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.csproj.AssemblyReference.cache
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.csproj.CoreCompileInputs.cache
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.dll
+E:\UTN\3C_2021\Tec y SistemasWeb1\Proyecto\WebAppSupermercadoPatitosSA\obj\Debug\WebAppSupermercadoPatitosSA.pdb
